@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>I Progetti 2025</title>
+  <!-- Bootstrap CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="bg-dark text-white text-center p-4">
+    <h1>Your Message Here</h1>
+    <p>I Progetti 2025 – Etica, Cultura, Bellezza</p>
+  </header>
+
+  <!-- Sezione 1 -->
+  <section class="container my-5">
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <h2>🌐 Piattaforma Etica</h2>
+        <p>
+          Uno spazio digitale per promuovere valori di trasparenza,
+          collaborazione e responsabilità. Nato per connettere persone e idee.
+        </p>
+        <a href="https://antonello2907.github.io/piattaforma-etica/" class="btn btn-primary">Scopri di più</a>
+      </div>
+      <div class="col-md-6">
+        <img src="immagine1.jpg" alt="Piattaforma Etica" class="img-fluid rounded shadow">
+      </div>
+    </div>
+  </section>
+
+  <!-- Sezione 2 -->
+  <section class="container my-5">
+    <div class="row align-items-center flex-md-row-reverse">
+      <div class="col-md-6">
+        <h2>📜 Lettere di Antonino di Pradd Mill</h2>
+        <p>
+          Uno spazio riflessivo e culturale dedicato al pensiero e alla scrittura.
+          Parole che ispirano e lasciano il segno.
+        </p>
+        <a href="https://antonello2907.github.io/Le-Lettere-di-Antonino-di-Pradd-Mill/" class="btn btn-primary">Leggi le lettere</a>
+      </div>
+      <div class="col-md-6">
+        <img src="immagine2.jpg" alt="Lettere" class="img-fluid rounded shadow">
+      </div>
+    </div>
+  </section>
+
+  <!-- Sezione 3 -->
+  <section class="container my-5">
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <h2>💎 Bellezza24.com</h2>
+        <p>
+          Portale dedicato a estetica, benessere, odontoiatria e spa.
+          Innovazione e servizi per il tuo benessere.
+        </p>
+        <a href="https://antonello2907.github.io/Bellezza24.com/" class="btn btn-primary">Visita il sito</a>
+      </div>
+      <div class="col-md-6">
+        <img src="immagine3.jpg" alt="Bellezza24" class="img-fluid rounded shadow">
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-light text-center p-3">
+    <p>© 2025 Your Message Here – Tutti i diritti riservati</p>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
